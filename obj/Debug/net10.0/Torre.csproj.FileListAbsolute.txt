@@ -1,0 +1,14 @@
+C:\Users\26171897\Documents\Torre\bin\Debug\net10.0\Torre.exe
+C:\Users\26171897\Documents\Torre\bin\Debug\net10.0\Torre.deps.json
+C:\Users\26171897\Documents\Torre\bin\Debug\net10.0\Torre.runtimeconfig.json
+C:\Users\26171897\Documents\Torre\bin\Debug\net10.0\Torre.dll
+C:\Users\26171897\Documents\Torre\bin\Debug\net10.0\Torre.pdb
+C:\Users\26171897\Documents\Torre\obj\Debug\net10.0\Torre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26171897\Documents\Torre\obj\Debug\net10.0\Torre.AssemblyInfoInputs.cache
+C:\Users\26171897\Documents\Torre\obj\Debug\net10.0\Torre.AssemblyInfo.cs
+C:\Users\26171897\Documents\Torre\obj\Debug\net10.0\Torre.csproj.CoreCompileInputs.cache
+C:\Users\26171897\Documents\Torre\obj\Debug\net10.0\Torre.dll
+C:\Users\26171897\Documents\Torre\obj\Debug\net10.0\refint\Torre.dll
+C:\Users\26171897\Documents\Torre\obj\Debug\net10.0\Torre.pdb
+C:\Users\26171897\Documents\Torre\obj\Debug\net10.0\Torre.genruntimeconfig.cache
+C:\Users\26171897\Documents\Torre\obj\Debug\net10.0\ref\Torre.dll
