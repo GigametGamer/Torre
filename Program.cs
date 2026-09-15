@@ -4,7 +4,7 @@ using Torre;
 Class1 bah = new Class1();
 Class2 beh = new Class2();
 
-int Objetivo = 100000000;
+int Objetivo = 10000000;
 
 int ValoriParaArmazenamento = 0;
 int ValoriParaMineracao = 0;
