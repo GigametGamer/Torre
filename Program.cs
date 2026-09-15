@@ -1,4 +1,4 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using Torre;
 
 Class1 bah = new Class1();
@@ -293,24 +293,14 @@ void Configurar()
 void Menu()
 {
     Console.Clear();
-    Class1.DefinirTamanhoFonteConsole(65);
-    Class1.DefinirTamanhoFonteConsole(65);
-    Class1.DefinirTamanhoFonteConsole(65);
-    Class1.DefinirTamanhoFonteConsole(65);
     Console.WriteLine("█   █ ███ ████  █████ ████     █████  ███  █   █ █████ ████  \r\n█   █  █  █   █ █     █   █      █   █   █ █   █ █     █   █ \r\n█████  █  ████  ████  ████       █   █   █ █ █ █ ████  ████  \r\n█   █  █  █     █     █  █       █   █   █ ██ ██ █     █  █  \r\n█   █ ███ █     █████ █   █      █    ███  █   █ █████ █   █ ");
 }
 
 
-Class1.DefinirTamanhoFonteConsole(80);
+Class1.DefinirTamanhoFonteConsole(65);
 Class2.AtivarTelaCheia();
 
-Class2.AtivarTelaCheia();
-Class2.AtivarTelaCheia();
-Class2.AtivarTelaCheia();
+
 Inicio();
 
-Class1.DefinirTamanhoFonteConsole(65);
-Class1.DefinirTamanhoFonteConsole(65);
-Class1.DefinirTamanhoFonteConsole(65);
-Class1.DefinirTamanhoFonteConsole(65);
 LetrasSuperRapido("█   █ ███ ████  █████ ████     █████  ███  █   █ █████ ████  \r\n█   █  █  █   █ █     █   █      █   █   █ █   █ █     █   █ \r\n█████  █  ████  ████  ████       █   █   █ █ █ █ ████  ████  \r\n█   █  █  █     █     █  █       █   █   █ ██ ██ █     █  █  \r\n█   █ ███ █     █████ █   █      █    ███  █   █ █████ █   █ ");
