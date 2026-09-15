@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\26171897\\Documents\\Torre\\Torre.csproj": {}
+    "C:\\Users\\giova\\OneDrive\\Documentos\\MeusTrabalhosDeC#\\Torre\\Torre.csproj": {}
   },
   "projects": {
-    "C:\\Users\\26171897\\Documents\\Torre\\Torre.csproj": {
+    "C:\\Users\\giova\\OneDrive\\Documentos\\MeusTrabalhosDeC#\\Torre\\Torre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\26171897\\Documents\\Torre\\Torre.csproj",
+        "projectUniqueName": "C:\\Users\\giova\\OneDrive\\Documentos\\MeusTrabalhosDeC#\\Torre\\Torre.csproj",
         "projectName": "Torre",
-        "projectPath": "C:\\Users\\26171897\\Documents\\Torre\\Torre.csproj",
-        "packagesPath": "C:\\Users\\26171897\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\26171897\\Documents\\Torre\\obj\\",
+        "projectPath": "C:\\Users\\giova\\OneDrive\\Documentos\\MeusTrabalhosDeC#\\Torre\\Torre.csproj",
+        "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\giova\\OneDrive\\Documentos\\MeusTrabalhosDeC#\\Torre\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\26171897\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,7 +41,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
